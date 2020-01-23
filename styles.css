@@ -1,0 +1,57 @@
+.header {
+    border: 10px purple solid;
+    background-color: grey;
+    text-align:center;
+}
+
+
+h1 {
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+img {
+    height: 200px;
+    width: 200px;
+
+}
+
+.contestants {
+    border: 10px blue solid;
+    margin: .5px;
+    padding: .5px;
+    display: flex;
+    justify-content: center;
+    background-color:pink;
+
+}
+
+p {
+    display: flex;
+
+    margin: 20px;
+}
+
+.description {
+    border: 10px purple solid;
+    background-color: silver;
+    padding: 10px;
+    text-align:left;
+}
+button{
+    font-size:10px;
+    height:50px;
+    width:80px;
+    margin:10px;
+    padding:10px;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+    
+}
+button:hover{
+    background-color:grey;
+}
