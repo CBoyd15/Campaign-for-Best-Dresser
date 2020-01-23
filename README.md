@@ -1,1 +1,0 @@
-# Campaign-for-Best-Dresser
